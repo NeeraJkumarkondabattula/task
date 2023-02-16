@@ -130,7 +130,7 @@ export default function App() {
               <div className="charts">
                 <div className="chart">
                   <div className="activeusers">
-                    <div className="percentage" id="percentage1" />
+                    <div className="percentage" id="percentage1" >27%</div>
                     <svg xmlns="https://www.w3.org/2000/svg" id="circle1" version="1.1" width="160px" height="160px"> --&gt;
                       <circle cx={54} cy={54} r={42} id="per1" stroke-linearcap="round" />
                     </svg> 
